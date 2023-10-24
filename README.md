@@ -1,16 +1,20 @@
-### Hi there 👋
+## :woman_technologist: Introducing Myself
 
-<!--
-**ByThaoNguyen/ByThaoNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Thao. I'm a Data Scientist with expertise in data analysis, reporting, query optimization, database design, and data modeling.
 
-Here are some ideas to get you started:
+* Querying data using SQL and Python
+* Generate reports and perform ad-hoc data analysis using SQL and Python
+* Developing dashboards on Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :blue_book: Projects
+
+Welcome to my portfolio, where I showcase my projects
+
+## :hammer_and_pick: Tools
+
+* Language: SQL, Python
+* Database: Google BigQuery, MySQL
+* Visualization: Tableau, Python
+
+## :wave: Connect with Me
+* [Linkedin](https://www.linkedin.com/in/tnguyen188/)
